@@ -1,10 +1,10 @@
 # Olá, eu sou Enéas Max! 👋
 
 ## 👨‍💻 Sobre Mim
-- 🌱 **Desenvolvedor e Especialista em Infraestrutura:** 
+- 🌱 **Desenvolvedor Full Stack e Especialista em Infraestrutura:** 
   - Mais de **4 anos de experiência em Python**.
   - Entre **2 e 3 anos de experiência em desenvolvimento web** e infraestrutura de TI.
-  - Experiência sólida em **PHP** e tecnologias relacionadas.
+  - Experiência sólida em **JavaScript**, **PHP**, e **Java com Spring Boot**.
 - 💼 **Experiência Profissional:** 
   - **Freelancer** (Dezembro/2023 - Atualmente).
   - **Analista de TI na Iten Tecnologia** (Janeiro/2021 - Dezembro/2023).
@@ -17,7 +17,11 @@
 
 ## 🚀 Habilidades
 - 🐍 **Python:** Experiência avançada em desenvolvimento de automações e sistemas.
-- 🌐 **Desenvolvimento Web:** PHP, HTML, CSS, JavaScript e frameworks modernos.
+- 🌐 **Desenvolvimento Web:**
+  - **JavaScript:** Desenvolvimento front-end com frameworks modernos como React e Vue.js.
+  - **PHP:** Experiência com Laravel, CodeIgniter e sistemas personalizados.
+  - **HTML e CSS:** Criação de interfaces responsivas e otimizadas.
+- ☕ **Java com Spring Boot:** Criação de APIs robustas e seguras.
 - 🐳 **Docker:** Competência em contêineres e virtualização.
 - ☁️ **Infraestrutura Cloud:** Experiência em AWS e automação de infraestrutura.
 - 💾 **Bancos de Dados:** Conhecimento sólido em MySQL, PostgreSQL e otimização de consultas.
@@ -26,6 +30,7 @@
 ## 💡 Projetos de Destaque
 - **🔗 API para Gmail:** Desenvolvimento de uma API para comunicação com o Gmail, permitindo a consulta e download de anexos de forma autônoma.
 - **🖥️ Infraestrutura Automatizada:** Criação de scripts e pipelines CI/CD para automação e gerenciamento de servidores.
+- **📊 Sistema de Gestão de Projetos:** Desenvolvimento de um sistema completo utilizando **Java com Spring Boot**, **React**, e banco de dados **PostgreSQL**.
 
 ## 📚 Filosofia de Trabalho
 > **"Programar vai além da codificação; é compreender o ecossistema em que o código opera e garantir eficiência, escalabilidade e harmonia em cada solução desenvolvida."**
